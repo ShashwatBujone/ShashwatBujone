@@ -143,7 +143,7 @@ A full-stack e-commerce web application built in collaboration with UPAY NGO, Na
 <div align="center">
 
 <a href="mailto:shashwatbujone@gmail.com">
-  <img src="https://img.shields.io/badge/Email-24bujones@rbunagpur.in-7dd3fc?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=0f172a" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-shashwatbujone@gmail.com-7dd3fc?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=0f172a" alt="Email"/>
 </a>
 
 <br/><br/>
